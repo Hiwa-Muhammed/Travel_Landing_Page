@@ -4,7 +4,7 @@ import Guide from "@/components/Guide";
 import Hero from "@/components/Hero";
 import Features from "@/components/Features";
 
-const page = () => {
+const Home = () => {
   return (
     <>
       <Hero />
@@ -16,4 +16,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Home;
