@@ -22,7 +22,10 @@ const MobileNav = () => {
           className="inline-block cursor-pointer lg:hidden"
         />
       </SheetTrigger>
-      <SheetContent side="left" className="bg-white overflow-y-auto ">
+      <SheetContent
+        side="left"
+        className="bg-white overflow-y-auto hide-scrollbar "
+      >
         <SheetTitle>
           <Link href="/home">
             <Image src="hilink-logo.svg" alt="logo" width={74} height={29} />
