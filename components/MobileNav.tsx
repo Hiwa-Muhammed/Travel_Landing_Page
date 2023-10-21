@@ -23,7 +23,7 @@ const MobileNav = () => {
       </SheetTrigger>
       <SheetContent
         side="left"
-        className="bg-white overflow-y-auto hide-scrollbar "
+        className="bg-white overflow-hidden hide-scrollbar "
       >
         <SheetTitle>
           <Link href="/">
