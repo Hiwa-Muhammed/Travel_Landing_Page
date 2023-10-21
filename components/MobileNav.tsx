@@ -30,7 +30,7 @@ const MobileNav = () => {
             <Image src="hilink-logo.svg" alt="logo" width={74} height={29} />
           </Link>
         </SheetTitle>
-        <nav className="flex flex-col h-full max-container items-start mt-12 justify-between p-2 ">
+        <nav className="flex flex-col h-full max-container items-start mt-12  p-2  gap-12">
           <ul className="flex flex-col gap-12">
             {NAV_LINKS.map((link) => (
               <Link
@@ -42,13 +42,12 @@ const MobileNav = () => {
               </Link>
             ))}
           </ul>
-          <div className="flexCenter mt-2 flex w-full">
+          <div className="mt-2 flex w-full">
             <Button
               type="button"
               title="Login"
               icon="/user.svg"
               variant="btn_dark_green"
-              full
             />
           </div>
         </nav>
