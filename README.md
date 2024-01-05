@@ -4,23 +4,23 @@ Travel Camp is a beautiful travel website landing page built with Next.js. This 
 
 ## Features
 
-- **Responsive Design:** The landing page is fully responsive, ensuring that it looks great on all devices, from small screens to large monitors.
+- Responsive Design: The landing page is fully responsive, ensuring that it looks great on all devices, from small screens to large monitors.
 
-- **Reusability:** Codebase is organised into reusable components, making the site easy to scale and maintain. These components include:
+- Reusability: Codebase is organised into reusable components, making the site easy to scale and maintain. These components include:
 
-  - **Navbar:** A responsive navbar that adapts to both small and large screens, ensuring an optimal user experience.
+  - Navbar: A responsive navbar that adapts to both small and large screens, ensuring an optimal user experience.
 
-  - **Button Component:** A reusable button component for easy integration and consistent styling.
+  - Button Component: A reusable button component for easy integration and consistent styling.
 
-  - **Hero Section:** The first thing your visitors will see, featuring stunning imagery and compelling content to grab their attention.
+  - Hero Section: The first thing your visitors will see, featuring stunning imagery and compelling content to grab their attention.
 
-  - **Features Section:** Highlight the key features of your travel services with this informative section.
+  - Features Section: Highlight the key features of your travel services with this informative section.
 
-  - **Call to Action:** Encourage users to take action with a compelling call to action section, guiding them to explore further.
+  - Call to Action: Encourage users to take action with a compelling call to action section, guiding them to explore further.
 
-  - **Camp Section:** Showcase your travel camp with enticing images and descriptions.
+  - Camp Section: Showcase your travel camp with enticing images and descriptions.
 
-  - **Footer:** A well-organized footer section that provides essential information and navigation links.
+  - Footer: A well-organized footer section that provides essential information and navigation links.
 
 ## Live Site Preview
 
