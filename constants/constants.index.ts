@@ -1,9 +1,9 @@
 // NAVIGATION
 export const NAV_LINKS = [
   { href: "/", key: "home", label: "Home" },
-  { href: "/", key: "how_hilink_work", label: "How Hilink Work?" },
-  { href: "/", key: "services", label: "Services" },
-  { href: "/", key: "pricing ", label: "Pricing " },
+  { href: "/", key: "services", label: "Our Services" },
+  { href: "/", key: "destinations", label: "Destinations" },
+  { href: "/", key: "about", label: "About Us" },
   { href: "/", key: "contact_us", label: "Contact Us" },
 ];
 
@@ -18,69 +18,68 @@ export const PEOPLE_URL = [
 // FEATURES SECTION
 export const FEATURES = [
   {
-    title: "Real maps can be offline",
-    icon: "/map.svg",
-    variant: "green",
-    description:
-      "We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location",
-  },
-  {
-    title: "Set an adventure schedule",
-    icon: "/calendar.svg",
-    variant: "green",
-    description:
-      "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
-  },
-  {
-    title: "Technology using augment reality",
+    title: "Flight Booking Services",
     icon: "/tech.svg",
     variant: "green",
     description:
-      "Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection",
+      "Book domestic and international flights with the best prices. We work with major airlines to get you the most competitive rates and convenient schedules.",
   },
   {
-    title: "Many new locations every month",
+    title: "Hotel Reservations",
     icon: "/location.svg",
+    variant: "green",
+    description:
+      "From luxury resorts to budget-friendly accommodations, we help you find and reserve the perfect hotel for your stay at any destination worldwide.",
+  },
+  {
+    title: "Travel Planning & Consultation",
+    icon: "/calendar.svg",
+    variant: "green",
+    description:
+      "Our experienced travel consultants help you plan every detail of your trip, from itinerary design to travel documentation and visa assistance.",
+  },
+  {
+    title: "24/7 Customer Support",
+    icon: "/map.svg",
     variant: "orange",
     description:
-      "Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing",
+      "We provide round-the-clock support to ensure your travel experience is smooth and worry-free, wherever your journey takes you.",
   },
 ];
 
 // FOOTER SECTION
 export const FOOTER_LINKS = [
   {
-    title: "Learn More",
+    title: "Our Services",
     links: [
-      "About Hilink",
-      "Press Releases",
-      "Environment",
-      "Jobs",
-      "Privacy Policy",
-      "Contact Us",
+      "Flight Booking",
+      "Hotel Reservations",
+      "Travel Insurance",
+      "Visa Assistance",
+      "Group Travel",
+      "Travel Packages",
     ],
   },
   {
-    title: "Our Community",
-    links: ["Climbing xixixi", "Hiking hilink", "Hilink kinthill"],
+    title: "Popular Destinations",
+    links: ["Dubai", "Istanbul", "Baghdad", "Amman", "Tehran", "Cairo"],
   },
 ];
 
 export const FOOTER_CONTACT_INFO = {
   title: "Contact Us",
   links: [
-    { label: "Admin Officer", value: "123-456-7890" },
-    { label: "Email Officer", value: "hilink@akinthil.com" },
+    { label: "Phone", value: "+964 750 123 4567" },
+    { label: "Email", value: "info@niratravel.com" },
   ],
 };
 
 export const SOCIALS = {
-  title: "Social",
+  title: "Follow Us",
   links: [
     "/facebook.svg",
     "/instagram.svg",
     "/twitter.svg",
     "/youtube.svg",
-    "/wordpress.svg",
   ],
 };

@@ -5,8 +5,8 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Travel Camp",
-  description: "Travel UI/UX App for Camping",
+  title: "Nira Travel - Your Gateway to Amazing Journeys",
+  description: "Professional travel agency in Erbil, Iraq. Book flights, reserve hotels, and plan your perfect trip with Nira Travel.",
 };
 
 export default function RootLayout({
