@@ -27,7 +27,7 @@ const MobileNav = () => {
       >
         <SheetTitle>
           <Link href="/">
-            <Image src="hilink-logo.svg" alt="logo" width={74} height={29} />
+            <Image src="/nira_travel_logo.jpg" alt="logo" width={74} height={29} />
           </Link>
         </SheetTitle>
         <nav className="flex flex-col h-full max-container items-start mt-12  p-2  gap-12">
